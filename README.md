@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fredericomacedo
 - 👀 I’m interested in Software Developeing and Technology 
 - 🌱 I’m currently learning Computer Programming
-- 💞️ I’m looking to collaborate on Java Projects 
+- 💞️ I’m looking to collaborate on Java, Angular, NodeJs, JavaScript, and C++ Projects 
 - 📫 How to reach me www.linkedin.com/in/fred-macedo
 
 <!---
